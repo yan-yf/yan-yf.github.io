@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>YanYF的博客</title>
+  <subtitle>装逼是本质</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://yan-yf.github.io/"/>
+  <updated>2017-04-09T03:51:53.234Z</updated>
+  <id>https://yan-yf.github.io/</id>
+  
+  <author>
+    <name>yanyf</name>
+    <email>yan.yf@aliyun.com</email>
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hello</title>
+    <link href="https://yan-yf.github.io/2017/04/08/hello/"/>
+    <id>https://yan-yf.github.io/2017/04/08/hello/</id>
+    <published>2017-04-08T08:37:18.000Z</published>
+    <updated>2017-04-09T03:51:53.234Z</updated>
+    
+    <content type="html"><![CDATA[<p>Hello world!<br>This is a test.<br>This is a test.<br>This is a test.<br>This is a test.<br>This is a test.<br>This is a test.<br>This is a test.</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Hello world!&lt;br&gt;This is a test.&lt;br&gt;This is a test.&lt;br&gt;This is a test.&lt;br&gt;This is a test.&lt;br&gt;This is a test.&lt;br&gt;This is a test.&lt;br&gt;This is
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
